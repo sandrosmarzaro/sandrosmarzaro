@@ -12,7 +12,6 @@
 <div>
   <img alt="JavaScript Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="NodeJS Icon" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="Python Icon" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img alt="C Icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Bash Icon" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
@@ -23,7 +22,6 @@
 ### OS
 <div>  
   <img alt="Windows Icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="Ubuntu Icon" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Manjaro Icon" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   &nbsp;&nbsp;&nbsp;
   <img alt="CPU Icon" src="https://img.shields.io/badge/AMD-Ryzen_5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
@@ -34,11 +32,8 @@
 ### IDE's & Editors
 <div>
   <img alt="Visual Studio Code Icon" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="VIM Icon" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <a href="https://replit.com/@SandroSmarzaro" target="_blank"/>
   <img alt="Replit Icon" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-  <img alt="Visual Studio Icon" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img alt="Pycharm Icon" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </div>
 
 <br/>
