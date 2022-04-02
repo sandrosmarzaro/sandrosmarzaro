@@ -46,5 +46,5 @@
   <a href="https://t.me/SandroSmarzaro" target="_blank"/><img alt="Telegram Icon" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <a href="https://www.instagram.com/sandrosmarzaro/" target="_blank"/><img alt="Instagram Icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="https://twitter.com/sandrosmarzaro" target="_blank"/><img alt="Twitter Icon" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <img alt="Discord Icon" src="https://dcbadge.vercel.app/api/shield/258576911762980864)"/>
+  <a href="" target="_blank"/><img alt="Discord Icon" src="https://dcbadge.vercel.app/api/shield/258576911762980864)"/>
 <div/>
