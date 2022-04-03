@@ -8,9 +8,10 @@
 
 <br/>
   
-# 🖥️ My Hard Skills
+# 🖥️ Main Stack
 <div>
   <img alt="Java Icon" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Gradle Icon" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
   <img alt="Postgres Icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="NodeJS Icon" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="C Icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -18,7 +19,7 @@
 
 <br/>
   
-# 🛠️ My Tools
+# 🛠️ Tools
 ### OS
 <div>  
   <img alt="Windows Icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
