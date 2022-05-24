@@ -26,9 +26,9 @@
   
 # 🛠️ Tools
 ### OS
-<div>  
+<div>
+  <img alt="Neon Icon" src="https://img.shields.io/badge/KDE_Neon-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows Icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="Manjaro Icon" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   &nbsp;&nbsp;&nbsp;
   <img alt="CPU Icon" src="https://img.shields.io/badge/AMD-Ryzen_5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <img alt="GPU Icon" src="https://img.shields.io/badge/AMD-Radeon_R9_270X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
