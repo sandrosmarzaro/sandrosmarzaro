@@ -9,9 +9,13 @@
 <br/>
   
 # 🖥️ Main Stack
+  
 <div>
   <img alt="Java Icon" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Postgres Icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Spring Icon" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Hibernate Icon" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+  <img alt="PostgreSQL Icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL Icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Maven Icon" src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img alt="Gradle Icon" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />  
 </div>
@@ -37,8 +41,9 @@
 
 ### IDE's & Editors
 <div>
-  <img alt="Visual Studio Code Icon" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Intellij Icon" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Visual Studio Code Icon" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Eclipse Icon" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img alt="Netbeans Icon" src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
   <a href="https://replit.com/@SandroSmarzaro" target="_blank"/>
   <img alt="Replit Icon" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
