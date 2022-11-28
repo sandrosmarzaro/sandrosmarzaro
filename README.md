@@ -6,6 +6,8 @@
   <img height=165em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroSmarzaro&langs_count=10&layout=compact&theme=radical"/>
 </div>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)<br/>
+
 <br/>
   
 # 🖥️ Main Stack
@@ -64,3 +66,8 @@
   <wbr>
   <a href="https://discord.com/app" target="_blank"/><img alt="Discord Icon" src="https://dcbadge.vercel.app/api/shield/258576911762980864"/>
 <div/>
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=sandrosmarzaro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
