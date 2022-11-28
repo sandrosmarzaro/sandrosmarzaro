@@ -24,31 +24,14 @@
 
 ### Others Hard Skills
 <div>
+  <img alt="Linux Icon" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Docker Icon" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Heroku Icon" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="NodeJS Icon" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="C Icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
-
-<br/>
-  
-# 🛠️ Tools
-### OS
-<div>
-  <img alt="Neon Icon" src="https://img.shields.io/badge/KDE_Neon-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Windows Icon" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="CPU Icon" src="https://img.shields.io/badge/AMD-Ryzen_5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img alt="GPU Icon" src="https://img.shields.io/badge/AMD-Radeon_R9_270X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <br/>
-</div>
-
-### IDE's & Editors
-<div>
-  <img alt="Intellij Icon" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="Visual Studio Code Icon" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="Eclipse Icon" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img alt="Netbeans Icon" src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
-  <a href="https://replit.com/@SandroSmarzaro" target="_blank"/>
-  <img alt="Replit Icon" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img alt="Python Icon" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img alt="JSON Icon" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  <img alt="Swagger Icon" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 </div>
 
 <br/>
@@ -70,4 +53,3 @@
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=sandrosmarzaro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
