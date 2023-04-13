@@ -42,8 +42,8 @@
   
 <br/>
 
-  <h1>📲 My contacts</h1>
-<div id="contacts">
+<h1>📲 My contacts</h1>
+<div id="contacts" align="center">
   <a href="mailto:sansmarzaro@gmail.com" target="_blank"/>
     <img alt="Gmail Icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
@@ -72,4 +72,7 @@
 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=sandrosmarzaro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div id="trophies" align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=sandrosmarzaro&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=-1)
+</div>
