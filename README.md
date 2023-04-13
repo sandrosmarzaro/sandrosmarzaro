@@ -29,7 +29,6 @@
         <img style="width: 66px; height: 66px;" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         <img style="width: 66px; height: 66px;" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
         <img style="width: 66px; height: 66px;" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img style="width: 66px; height: 66px;" alt="c"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       </td>
       <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
         <h3>DevOps</h3>
