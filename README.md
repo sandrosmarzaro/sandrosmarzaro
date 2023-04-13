@@ -2,7 +2,8 @@
 
 <div id="stats" align="center">
   <img height=165em alt="General Stats" src="https://github-readme-stats.vercel.app/api?username=SandroSmarzaro&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-  <img height=165em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroSmarzaro&langs_count=10&layout=compact&theme=radical"/>
+
+<img height=165em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroSmarzaro&langs_count=10&layout=compact&theme=radical"/>
     
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)
 </div>
@@ -11,34 +12,35 @@
   
 <h1>🖥️ Main Stack</h1>
   
-  <table align="center">
-    <tbody>
-      <tr>
-        <td width="33.33%" valign="top" style="display: flex; flex-wrap: wrap;">
-          <h3>Front-end</h3>
-          <img width="30%" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          <img width="30%" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          <img width="30%" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        </td>
-        <td width="33.33%" valign="top" style="display: flex; flex-wrap: wrap;">
-          <h3>Back-end</h3>
-          <img width="30%" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-          <img width="30%" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-          <img width="30%" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          <img width="30%" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          <img width="30%" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-          <img width="30%" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          <img width="30%" alt="c"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-        </td>
-        <td width="33.33%" valign="top" style="display: flex; flex-wrap: wrap;">
-          <h3>DevOps</h3>
-          <img width="30%" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-          <img width="30%" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-          <img width="30%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        </td>        
-      </tr>
-    </tbody>
-  </table>
+  <table align="center" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td width="33.33%"  align="center" valign="top" style="display: flex; flex-wrap: wrap;">
+        <h3>Front-end</h3>
+        <img style="width: 66px; height: 66px;" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+      <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
+        <h3>Back-end</h3>
+        <img style="width: 66px; height: 66px;" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+        <img style="width: 66px; height: 66px;" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="c"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      </td>
+      <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
+        <h3>DevOps</h3>
+        <img style="width: 66px; height: 66px;" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      </td>        
+    </tr>
+  </tbody>
+</table>
+
   
 <br/>
 
