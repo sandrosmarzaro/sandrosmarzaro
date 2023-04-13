@@ -1,39 +1,45 @@
 <h1>🌎 Hello World!</h1>
 
-<div id="stats">
-  <a href="https://github.com/SandroSmarzaro">
+<div id="stats" align="center">
   <img height=165em alt="General Stats" src="https://github-readme-stats.vercel.app/api?username=SandroSmarzaro&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
   <img height=165em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroSmarzaro&langs_count=10&layout=compact&theme=radical"/>
+    
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)
 </div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)<br/>
 
 <br/>
   
 <h1>🖥️ Main Stack</h1>
   
-<div id="main-stack">
-  <img alt="Ruby Icon" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img alt="Ruby on Rails Icon" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  <img alt="Python Icon" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img alt="PostgreSQL Icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Linux Icon" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Docker Icon" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <table align="center">
+    <tbody>
+      <tr>
+        <td width="33.33%" valign="top" style="display: flex; flex-wrap: wrap;">
+          <h3>Front-end</h3>
+          <img width="30%" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          <img width="30%" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          <img width="30%" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        </td>
+        <td width="33.33%" valign="top" style="display: flex; flex-wrap: wrap;">
+          <h3>Back-end</h3>
+          <img width="30%" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+          <img width="30%" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+          <img width="30%" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          <img width="30%" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          <img width="30%" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          <img width="30%" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          <img width="30%" alt="c"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        </td>
+        <td width="33.33%" valign="top" style="display: flex; flex-wrap: wrap;">
+          <h3>DevOps</h3>
+          <img width="30%" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+          <img width="30%" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          <img width="30%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        </td>        
+      </tr>
+    </tbody>
+  </table>
   
-</div>
-
-<h3>Others Hard Skills<h3>
-<div id="others-skills">
-  <img alt="Java Icon" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Spring Icon" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="Hibernate Icon" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-  <img alt="NodeJS Icon" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="C Icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="MySQL Icon" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="JSON Icon" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-  <img alt="Swagger Icon" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
-</div>
-
 <br/>
 
   <h1>📲 My contacts</h1>
