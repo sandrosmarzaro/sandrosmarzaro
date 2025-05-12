@@ -23,12 +23,7 @@
       </td>
       <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
         <h3>Back-end</h3>
-        <img style="width: 66px; height: 66px;" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-        <img style="width: 66px; height: 66px;" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
         <img style="width: 66px; height: 66px;" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img style="width: 66px; height: 66px;" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <img style="width: 66px; height: 66px;" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-        <img style="width: 66px; height: 66px;" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </td>
       <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
         <h3>DevOps</h3>
