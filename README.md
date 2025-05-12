@@ -24,6 +24,11 @@
       <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
         <h3>Back-end</h3>
         <img style="width: 66px; height: 66px;" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="fastapi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="sqlachemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+        <img style="width: 66px; height: 66px;" alt="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />  
+        <img style="width: 66px; height: 66px;" alt="poetry" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />
       </td>
       <td width="33.33%" align="center" valign="top" style="display: flex; flex-wrap: wrap;">
         <h3>DevOps</h3>
