@@ -1,11 +1,12 @@
 <h1>🌎 Hello World!</h1>
 
 <div id="stats" align="center">
-  <img height=165em alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroSmarzaro&theme=radical"/>
-
-<img height=165em alt="Languages Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandroSmarzaro&theme=radical"/>
-    
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroSmarzaro&theme=radical"/>
+  <br/>
+  <img alt="Top Languages in Repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroSmarzaro&theme=radical"/>
+  <img alt="Top Languages in Commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandroSmarzaro&theme=radical"/>
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroSmarzaro&theme=radical"/>
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandroSmarzaro&theme=radical&utcOffset=-3"/>
 </div>
 
 <br/>
