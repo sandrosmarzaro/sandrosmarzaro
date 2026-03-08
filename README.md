@@ -7,6 +7,9 @@
   <img alt="Top Languages in Commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandroSmarzaro&theme=radical"/>
   <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroSmarzaro&theme=radical"/>
   <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandroSmarzaro&theme=radical&utcOffset=-3"/>
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)
+  
 </div>
 
 <br/>
