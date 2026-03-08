@@ -1,9 +1,9 @@
 <h1>🌎 Hello World!</h1>
 
 <div id="stats" align="center">
-  <img height=165em alt="General Stats" src="https://github-readme-stats.vercel.app/api?username=SandroSmarzaro&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+  <img height=165em alt="General Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroSmarzaro&theme=radical"/>
 
-<img height=165em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroSmarzaro&langs_count=10&layout=compact&theme=radical"/>
+<img height=165em alt="Languages Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandroSmarzaro&theme=radical"/>
     
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sandrosmarzaro&theme=radical&hide_border=false)
 </div>
